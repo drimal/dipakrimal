@@ -3,10 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am a Research Scientist at The Bee Corp in Indianapolis. We use IR (infrared) imaging technlogy to build predictive models of bee colony strength inside beehives. Before coming to Bee Corp, I worked as a postdoctoral researcher at the University of Florida, where I analyzed data from neturino-nucleus interactions at the MINERvA detector at Fermilab. 
+I work at The Bee Corp in Indianapolis, where we use IR (Infra-Red) imaging technology to build predictive models to assess colony strength inside beehives. Before Bee Corp, I worked as a postdoctoral researcher at the University of Florida, where I analyzed data from neutrino-nucleus interactions at the MINERvA detector at Fermilab. 
 
 
-### Contact me
+### Contact
 
 [rimaldipak@gmail.com](mailto:rimaldipak@gmail.com)
 
